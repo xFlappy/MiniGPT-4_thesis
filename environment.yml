@@ -2,7 +2,7 @@ name: minigptv
 channels:
   - pytorch
   - defaults
-  - anaconda
+  - conda-forge
 dependencies:
   - python=3.9
   - cudatoolkit
